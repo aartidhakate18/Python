@@ -11,10 +11,6 @@ df2= pd.read_csv("C:/Users/Deevesh Nemade/Downloads/customers-100.csv")
 
 print(df2)
 
-
-
-
-
 import pandas as pd
 
 df1 = pd.read_json("C:/Users/Deevesh Nemade/Downloads/nepse-listed-companies-2021.json")
